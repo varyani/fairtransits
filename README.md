@@ -1,4 +1,6 @@
-#Fair Transits
+# Fair Transits Website
+
+This is a cab booking website built using React JS, Material-UI, Firebase Auth and Realtime Database and React-bootstrap.
 
 Hosting URL: https://fairtransits.web.app
 
