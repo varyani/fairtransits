@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fairtransits",
+    "fairtransits": "fairtransits"
+  },
+  "targets": {}
+}

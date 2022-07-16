@@ -1,0 +1,15 @@
+.main {
+    margin: 3rem auto;
+    width: auto;
+    z-index: -1;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+
+  }
+
+
+
